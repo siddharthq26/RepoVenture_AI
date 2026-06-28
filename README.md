@@ -19,16 +19,6 @@ A user types a business goal like **"Find AI agent frameworks for sponsorship"**
 
 ---
 
-## Live Demo
-
-```
-Frontend  →  http://localhost:5173
-Backend   →  http://localhost:8000
-API Docs  →  http://localhost:8000/docs
-```
-
----
-
 ## Architecture
 
 ```
